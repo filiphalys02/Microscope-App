@@ -1,7 +1,37 @@
 # Microscope-App
-Application made in Java FX as a final project for the course "Object-oriented programming in Java". The application was written in the Kate environment on the Slackware operating system (Linux). The application is used to view the image from a simple microscope connected to a computer via a USB cable. The user can save the current image frame to any location on the device.
-To enable the application, it is necessary to run the "s" file in the console:
-cd ./<path to the project>
-chmod u+x s
-./s
-After starting the process, user can compile and run App (in Kate: <comp_FX javaFXApp.java> <run_FX JavaFXpp>)
+
+Microscope-App is a Java FX application developed as the final project for the "Object-oriented programming in Java" course. It enables users to view images from a simple microscope connected to a computer via a USB cable.
+
+## Features
+
+- **Image Viewing:** Microscope-App provides a user-friendly interface for viewing images captured by the connected microscope.
+
+- **Image Saving:** Users can easily save the current image frame to any location on their device.
+
+## Environment and Setup
+
+Microscope-App was developed in the Kate environment on the Slackware operating system (Linux). To run the application, follow these steps:
+
+1. Open your terminal and navigate to the project directory:
+
+   ```bash
+   cd /path/to/your/project
+2. Make the "s" file executable:
+
+   ```bash
+   chmod u+x s
+
+3. Launch the application by executing the "s" file:
+
+   ```bash
+   ./s
+
+4. After launching the application, compile and run Microscope-App using the following commands in Kate:
+
+   ```bash
+   comp_FX javaFXApp.java>
+   run_FX JavaFXpp>
+
+
+
+
