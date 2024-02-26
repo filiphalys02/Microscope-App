@@ -1,6 +1,6 @@
 # Microscope-App
 
-Microscope-App is a Java FX application developed as the final project for the "Object-oriented programming in Java" course. It enables users to view images from a simple microscope connected to a computer via a USB cable.
+### Microscope-App is a Java FX application developed as the final project for the "Object-oriented programming in Java" course. It enables users to view images from a simple microscope connected to a computer via a USB cable.
 
 ## Features
 
